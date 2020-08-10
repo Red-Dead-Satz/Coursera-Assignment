@@ -15,7 +15,6 @@ h1{
 }
 h2{
 	text-align: right;
-	margin-left: 10px;
 	font-size: 100%;
 	color: #ff8c1a;
 	font-weight: bold;
@@ -47,7 +46,6 @@ p {
 .row {
   width: 100%;
   margin: auto;
-  padding: auto;
 }
 
 /********** Computer devices only **********/
