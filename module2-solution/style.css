@@ -1,9 +1,6 @@
 <style>
 *{
-	box-sizing: border-box;
-	margin: 0px;
-    padding: 0px;
-	
+	box-sizing: border-box;	
 }
 h1{
 	margin-bottom: 30px;
@@ -11,6 +8,10 @@ h1{
 	font-size: 175%;
 	color: #cc0000;
 	font-weight: bold;
+}
+.div.col-lg-4.col-md-6.col-xs-12{
+	margin: 0px;
+	padding: 0px;
 }
 h2{
 	text-align: right;
