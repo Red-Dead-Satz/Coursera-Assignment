@@ -24,3 +24,6 @@ body{
 .navbar-brand a:h1.hover,.navbar-brand a:h1.focus{
 	text-decoration: none; 
 }
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border: 1px solid #61122f;
+}
