@@ -18,6 +18,6 @@ body{
 	text-shadow: 1px 1px 1px #222;
 	margin-left: 0;
 }
-.navbar-brand a:hover,.navbar-brand a:focus{
+.navbar-brand a.hover,.navbar-brand a.focus{
 	text-decoration: none; 
 }
